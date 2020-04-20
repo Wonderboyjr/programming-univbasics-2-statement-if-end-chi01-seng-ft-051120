@@ -1,4 +1,4 @@
 if Time.now.to_i % 2 == 0
-  puts imeputs "Even!"
+  uts "Even!"
 eputs "Odd!"
 end
