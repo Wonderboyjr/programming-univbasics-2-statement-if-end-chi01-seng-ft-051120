@@ -1,5 +1,5 @@
-current_timcurif current_time % 2 == 0
-  puts "Even!"
+cif Time.now.to_i % 2 == 0
+  puts imeputs "Even!"
 else
 puts "Odd!"
 end
