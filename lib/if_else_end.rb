@@ -1,4 +1,4 @@
 if Time.now.to_i % 2 == 0
 m  puts "Even!"
-elseputs"Odd!"
+elseputs "Odd!"
 end
